@@ -51,13 +51,23 @@ I enjoy building practical AI-powered applications and exploring how modern AI t
 * VS Code
 * Poetry
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-**AI Study Assistant**
+#### 🤖 AI Study Assistant
+
+[View Project](https://github.com/Azeem29742/ai-study-assistant)
 
 An AI-powered study assistant that uses document processing, embeddings, vector search, and LLMs to provide contextual answers from learning materials.
 
 **Tech Stack:** Python • FastAPI • React • Gemini • ChromaDB • SQLite
+
+#### 🌐 Adrite Agency Platform
+
+[View Project](https://github.com/Azeem29742/adrite-agency-platform)
+
+A modern web platform built to provide digital agency services through a professional and user-friendly interface.
+
+**Repository:** [adrite-agency-platform](https://github.com/Azeem29742/adrite-agency-platform)
 
 ### 🎯 Current Goals
 
