@@ -1,4 +1,4 @@
-![Azeem Ur Rehman - AI Developer](./wide_clean_tech_themed_banner_layout_modern_minim.png)
+![Azeem Ur Rehman - AI Developer](./ChatGPT%20Image%20Sep%2013,%202026,%2012_07_51%20PM.png)
 
 # Hi, I'm Azeem Ur Rehman 👋
 
