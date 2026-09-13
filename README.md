@@ -97,6 +97,6 @@ I'm open to opportunities in:
 
 📧 **Email:** rehmanazeem942@gmail.com
 
-💼 **LinkedIn:** [Connect with me on LinkedIn] www.linkedin.com/in/azeem-ur-rahman-829837240
+💼 **LinkedIn:** [Connect with me on LinkedIn] (https://www.linkedin.com/in/azeem-ur-rahman-829837240/)
 
 🐙 **GitHub:** [Azeem29742](https://github.com/Azeem29742)
