@@ -83,8 +83,6 @@ An AI-powered agency assistant backend built with FastAPI, featuring a RAG pipel
 
 I build and share projects focused on **AI, LLMs, RAG, automation, and software engineering**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azeem29742&layout=compact&hide_border=true)
-
 ### 📚 Currently Learning
 
 - 🧠 Advanced LLM application development
