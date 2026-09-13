@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**Azeem29742/Azeem29742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm Azeem Ur Rehman 👋
 
 ### AI & Software Engineering Graduate | AI Developer | Automation Enthusiast
