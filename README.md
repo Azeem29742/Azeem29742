@@ -77,9 +77,11 @@ An AI-powered agency assistant backend built with FastAPI, featuring a RAG pipel
 * Develop a strong AI portfolio
 * Contribute to open-source projects
 
-### 📊 GitHub Stats
+## 📊 GitHub
 
-![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azeem29742&show_icons=true&hide_border=true&rank_icon=github)
+[![GitHub](https://img.shields.io/badge/GitHub-Azeem29742-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azeem29742)
+
+I build and share projects focused on **AI, LLMs, RAG, automation, and software engineering**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azeem29742&layout=compact&hide_border=true)
 
