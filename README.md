@@ -75,21 +75,16 @@ An AI-powered agency assistant backend built with FastAPI, featuring a RAG pipel
 
 ### 📫 Let's Connect
 
-I'm interested in opportunities related to **AI Development, AI Automation, Software Engineering, and LLM/RAG applications**.
+I'm open to opportunities in:
 
----
+- 🤖 AI Development
+- 🧠 LLM & RAG Applications
+- ⚙️ AI Automation
+- 🐍 Python Development
+- 💻 Software Engineering
 
-⭐ Thanks for visiting my profile!
+📧 **Email:** rehmanazeem942@gmail.com
 
-Here are some ideas to get you started:
+💼 **LinkedIn:** [Connect with me on LinkedIn] www.linkedin.com/in/azeem-ur-rahman-829837240
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+🐙 **GitHub:** [Azeem29742](https://github.com/Azeem29742)
