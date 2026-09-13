@@ -10,6 +10,16 @@ I build practical AI-powered applications using technologies such as **Python, F
 
 Currently, I'm focused on strengthening my AI engineering skills and building real-world projects that combine **software engineering, intelligent systems, and automation**.
 
+### 💡 What I Build
+
+- 🤖 AI-powered applications
+- 🧠 LLM-based solutions
+- 🔎 RAG & semantic search systems
+- ⚙️ AI automation workflows
+- 🌐 FastAPI backends & REST APIs
+- 📚 Document intelligence applications
+- 💬 Context-aware AI assistants
+
 ### 🚀 What I'm Working On
 
 * 🤖 AI-powered applications
