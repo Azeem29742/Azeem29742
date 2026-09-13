@@ -83,6 +83,12 @@ An AI-powered agency assistant backend built with FastAPI, featuring a RAG pipel
 - 🌐 Production-ready APIs with FastAPI
 - 🗄️ Vector databases & semantic search
 
+### 🚀 Upcoming Projects
+
+- 🏏 **AI Cricket News Automation** — Automated cricket news collection, analysis, summarization, and social media content generation.
+- 🤖 **AI Research Assistant** — An AI application for research, document analysis, and knowledge retrieval.
+- ⚙️ **AI Automation Workflows** — Practical automation solutions combining APIs, LLMs, and intelligent workflows.
+
 ### 📫 Let's Connect
 
 I'm open to opportunities in:
