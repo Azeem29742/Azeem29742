@@ -53,21 +53,17 @@ I enjoy building practical AI-powered applications and exploring how modern AI t
 
 ### 📌 Featured Projects
 
-#### 🤖 AI Study Assistant
-
-[View Project](https://github.com/Azeem29742/ai-study-assistant)
+#### 🤖 [AI Study Assistant](https://github.com/Azeem29742/ai-study-assistant)
 
 An AI-powered study assistant that uses document processing, embeddings, vector search, and LLMs to provide contextual answers from learning materials.
 
 **Tech Stack:** Python • FastAPI • React • Gemini • ChromaDB • SQLite
 
-#### 🌐 Adrite Agency Platform
+#### 🧠 [Adrite Agency Platform](https://github.com/Azeem29742/adrite-agency-platform)
 
-[View Project](https://github.com/Azeem29742/adrite-agency-platform)
+An AI-powered agency assistant backend built with FastAPI, featuring a RAG pipeline, conversational chat history, sentiment analysis, and intent prediction.
 
-A modern web platform built to provide digital agency services through a professional and user-friendly interface.
-
-**Repository:** [adrite-agency-platform](https://github.com/Azeem29742/adrite-agency-platform)
+**Tech Stack:** Python • FastAPI • LangChain • Groq LLaMA 3 • FAISS • HuggingFace Embeddings
 
 ### 🎯 Current Goals
 
