@@ -4,9 +4,11 @@
 
 ### AI & Software Engineering Graduate | AI Developer | Automation Enthusiast
 
-I'm a Software Engineering graduate passionate about **Artificial Intelligence, LLMs, RAG systems, and AI automation**.
+I'm a Software Engineering graduate focused on **Artificial Intelligence, LLM applications, RAG systems, and AI automation**.
 
-I enjoy building practical AI-powered applications and exploring how modern AI technologies can solve real-world problems.
+I build practical AI-powered applications using technologies such as **Python, FastAPI, LLMs, vector databases, and modern AI APIs**.
+
+Currently, I'm focused on strengthening my AI engineering skills and building real-world projects that combine **software engineering, intelligent systems, and automation**.
 
 ### 🚀 What I'm Working On
 
