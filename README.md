@@ -1,3 +1,5 @@
+![Azeem Ur Rehman - AI Developer](./wide_clean_tech_themed_banner_layout_modern_minim.png)
+
 # Hi, I'm Azeem Ur Rehman 👋
 
 ### AI & Software Engineering Graduate | AI Developer | Automation Enthusiast
